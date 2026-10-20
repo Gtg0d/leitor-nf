@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+*.spec
+bin/
+*.zip
+# arquivos de teste com dados reais nunca entram aqui
+*.xlsx
+*.xml
+*.pdf
